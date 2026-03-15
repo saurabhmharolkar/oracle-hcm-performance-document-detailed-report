@@ -187,18 +187,6 @@ oracle-hcm-performance-document-detailed-report
 
 ---
 
-## Screenshots
-
-The screenshots folder may include:
-
-* BI Publisher Data Model
-* Report Parameter Screen
-* Sample Report Output
-
-All screenshots should mask or anonymize employee personal data.
-
----
-
 ## Use Cases
 
 This report can be used by:
